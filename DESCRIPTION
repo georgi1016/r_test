@@ -1,9 +1,9 @@
-Package: test_package
+Package: r_test
 Type: Package
 Title: test for Twitter
 Version: 1.0
 Date: 2014-06-02
 Author: gerogi
-Maintainer: fghtr@unseen.is
+Maintainer: georgi.chinkov@openmailbox.org
 Description: twitter analysis
 License: someone
