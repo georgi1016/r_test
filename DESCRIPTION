@@ -1,4 +1,4 @@
-Package: r_test
+Package: rtest
 Type: Package
 Title: test for Twitter
 Version: 1.0
